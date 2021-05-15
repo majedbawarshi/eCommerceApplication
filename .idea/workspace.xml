@@ -44,8 +44,16 @@
       <workItem from="1620508028757" duration="2933000" />
       <workItem from="1621095404803" duration="1238000" />
       <workItem from="1621097516737" duration="45000" />
-      <workItem from="1621098226025" duration="8491000" />
+      <workItem from="1621098226025" duration="9207000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding navbar">
+      <created>1621111913297</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621111913297</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -60,5 +68,20 @@
         <option value="Default.Subject" />
       </list>
     </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding navbar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding navbar" />
   </component>
 </project>
